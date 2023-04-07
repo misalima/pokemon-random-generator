@@ -1,4 +1,3 @@
-<base target="_blank">
 # Random Pokémon Generator
 
 ## Screenshot:
