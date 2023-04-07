@@ -7,7 +7,7 @@
 This is a simple web application that generates a random Pokémon and displays information about it, such as its name, type, height, and weight. 
 The user can click a button to generate a new random Pokémon. 
 
-[Check it out](https://misalima.github.io/pokemon-random-generator/)
+<a target="_blank" href="https://misalima.github.io/pokemon-random-generator/">Check it out</a>
 
 The application uses an XMLHttpRequest to retrieve information about the Pokémon from an external API, and then displays the information on the page using JavaScript. The application also uses HTML and CSS to create the layout and styling of the page.
 
